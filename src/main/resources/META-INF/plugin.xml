@@ -1,15 +1,14 @@
 <idea-plugin>
     <id>emg.idea.hotswap.emg-hotswap-agent-helper</id>
-    <name>Plugin display name here</name>
-    <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
+    <name>Emg Hotswap Agent Helper</name>
+    <vendor email="edison.martinez@me.com" url="https://github.com/petrubear/emg-hotswap-agent-helper">Edison Martinez</vendor>
 
     <description><![CDATA[
-    Enter short description for your plugin here.<br>
-    <em>most HTML tags may be used</em>
+    Genera el archivo de configuración hotswap-agent.properties<br>
     ]]></description>
 
     <change-notes><![CDATA[
-      Release 0.0.1: Initial release.<br>
+      Release 0.0.1: Initial Alpha Release.<br>
     ]]>
     </change-notes>
 
